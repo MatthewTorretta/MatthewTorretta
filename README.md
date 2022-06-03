@@ -6,8 +6,4 @@
 - linkedin: linkedin.com/in/matthew-torretta
 - Current #: 🇨🇮 (+353) 87-186-0834
 - Second Phone #: 🇺🇸 (+1) 516-761-3785
-- 
 
-MatthewTorretta/MatthewTorretta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
